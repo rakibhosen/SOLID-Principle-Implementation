@@ -1,0 +1,14 @@
+E:\PracProject\OOP\SOLIDPRINCIPLE\obj\Debug\netcoreapp3.1\SOLIDPRINCIPLE.csproj.AssemblyReference.cache
+E:\PracProject\OOP\SOLIDPRINCIPLE\obj\Debug\netcoreapp3.1\SOLIDPRINCIPLE.GeneratedMSBuildEditorConfig.editorconfig
+E:\PracProject\OOP\SOLIDPRINCIPLE\obj\Debug\netcoreapp3.1\SOLIDPRINCIPLE.AssemblyInfoInputs.cache
+E:\PracProject\OOP\SOLIDPRINCIPLE\obj\Debug\netcoreapp3.1\SOLIDPRINCIPLE.AssemblyInfo.cs
+E:\PracProject\OOP\SOLIDPRINCIPLE\obj\Debug\netcoreapp3.1\SOLIDPRINCIPLE.csproj.CoreCompileInputs.cache
+E:\PracProject\OOP\SOLIDPRINCIPLE\bin\Debug\netcoreapp3.1\SOLIDPRINCIPLE.exe
+E:\PracProject\OOP\SOLIDPRINCIPLE\bin\Debug\netcoreapp3.1\SOLIDPRINCIPLE.deps.json
+E:\PracProject\OOP\SOLIDPRINCIPLE\bin\Debug\netcoreapp3.1\SOLIDPRINCIPLE.runtimeconfig.json
+E:\PracProject\OOP\SOLIDPRINCIPLE\bin\Debug\netcoreapp3.1\SOLIDPRINCIPLE.runtimeconfig.dev.json
+E:\PracProject\OOP\SOLIDPRINCIPLE\bin\Debug\netcoreapp3.1\SOLIDPRINCIPLE.dll
+E:\PracProject\OOP\SOLIDPRINCIPLE\bin\Debug\netcoreapp3.1\SOLIDPRINCIPLE.pdb
+E:\PracProject\OOP\SOLIDPRINCIPLE\obj\Debug\netcoreapp3.1\SOLIDPRINCIPLE.dll
+E:\PracProject\OOP\SOLIDPRINCIPLE\obj\Debug\netcoreapp3.1\SOLIDPRINCIPLE.pdb
+E:\PracProject\OOP\SOLIDPRINCIPLE\obj\Debug\netcoreapp3.1\SOLIDPRINCIPLE.genruntimeconfig.cache
